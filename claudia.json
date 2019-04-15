@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "BasicCrudAPI-executor",
+    "name": "BasicCrudAPI",
+    "region": "eu-west-2"
+  },
+  "api": {
+    "id": "qkjv08s97g"
+  }
+}
